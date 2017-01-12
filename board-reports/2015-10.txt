@@ -1,0 +1,55 @@
+Report from the Apache JSPWiki committee
+
+## Description:
+   A feature-rich and extensible WikiWiki engine built around the standard 
+        J2EE components (Java, servlets, JSP).
+  
+## Issues:
+ - There are no issues requiring board attention at this time.
+  
+## Activity:
+ - Quiet quarter regarding ML activity, although conversations on releasing
+   2.10.2 spun quite a burst of activity to include new functionality for
+   this release.
+ - We have to retake conversation on releasing 2.10.2. There shouldn't be
+   too much trouble with it.
+  
+## Health report:
+ - As said before, it has been a quiet quarter, but this happens from time
+   to time; all JSPWiki developers work on it on their free time, plus this
+   quarter we've had few questions on MLs, hence little activity.
+ - There is still plenty enough people to answer questions / vote on
+   new releases, etc., though.
+  
+## PMC changes:
+  
+ - Currently 10 PMC members.
+ - No new PMC members added in the last 3 months
+ - Last PMC addition was David Vittor at Fri Jan 23 2015
+  
+## LDAP changes:
+  
+ - Currently 15 committers and 10 committee group members.
+ - No new committee group members added in the last 3 months
+ - No new committers added in the last 3 months
+ - Last committer addition was David Vittor at Fri Jan 02 2015
+  
+## Releases:
+  
+ - Last release was 2.10.1 on Thu May 29 2014
+  
+## Mailing list activity:
+  
+ - dev@jspwiki.apache.org: 
+    - 84 subscribers (down -1 in the last 3 months):
+    - 107 emails sent to list (159 in previous quarter)
+  
+ - user@jspwiki.apache.org: 
+    - 172 subscribers (down -2 in the last 3 months):
+    - 20 emails sent to list (105 in previous quarter)
+  
+  
+## JIRA activity:
+  
+ - 21 JIRA tickets created in the last 3 months
+ - 17 JIRA tickets closed/resolved in the last 3 months

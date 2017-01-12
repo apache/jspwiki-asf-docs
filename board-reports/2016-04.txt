@@ -1,0 +1,57 @@
+## Description: 
+   A feature-rich and extensible WikiWiki engine built around the standard  
+        JEE components (Java, servlets, JSP). 
+   
+## Issues: 
+ - there are no issues requiring board attention at this time. 
+   
+## Activity: 
+ - user@j.a.o held a thread named "Open Discussion - How to increasing 
+   JSPWiki publicity". As a result of that we know have one more PMC &
+   committer, who is taking care of both project's Facebook and Twitter
+   accounts.
+ - A faculty member from Massachusetts approached dev@j.a.o asking for 
+   some tasks to be done, which could be used on a computer science senior 
+   seminar course.
+ - 2.10.2 was finally released, which resulted into an increase of activity
+ - Development after 2.10.2 has been focused mostly on improving JSPWiki's 
+   default template. 
+ - There were commits by three different people on this period.
+ - We had one security vulnerability report, but it was dismissed.
+   
+## Health report: 
+ - Overall, the project is healthy, but with a slow pace of development.
+   
+## PMC changes: 
+   
+ - Currently 11 PMC members. 
+ - Dave Koelmeyer was added to the PMC on Wed Apr 06 2016 
+   
+## Committer base changes: 
+   
+ - Currently 16 committers. 
+ - Dave Koelmeyer was added as a committer on Wed Apr 06 2016 
+   
+## Releases: 
+   
+ - 2.10.2 was released on Sat Feb 20 2016 
+   
+## Mailing list activity: 
+   
+ - Increase of traffic on both lists, on user due to the aforamentioned thread
+   plus FB and Twitter accounts, and on dev because of 2.10.2 + JIRA activity.
+   
+ - dev@jspwiki.apache.org:  
+    - 88 subscribers (up 2 in the last 3 months): 
+    - 131 emails sent to list (38 in previous quarter) 
+   
+ - user@jspwiki.apache.org:  
+    - 180 subscribers (up 3 in the last 3 months): 
+    - 74 emails sent to list (20 in previous quarter) 
+   
+   
+## JIRA activity: 
+   
+ - 9 JIRA tickets created in the last 3 months 
+ - 12 JIRA tickets closed/resolved in the last 3 months 
+   

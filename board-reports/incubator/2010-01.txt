@@ -1,0 +1,21 @@
+2010 January JSPWiki Incubator status report
+
+JSPWiki has been incubating since September 2007.
+
+JSPWiki is a JSP-based wiki program.
+
+Significant progress was made in Stripesifying the jsp's.
+We also introduced a new content-inspection package and integrated CAPTCHA. 
+We upgraded to the priha 0.7.0-alpha release which passes all tests 
+from the JSR-170 test suite, and offers better performance.
+
+A number of bugs were fixed and 27 new unit tests were added, the current unit 
+test compliance has dropped a bit to 96.8 %.  
+
+Of the 27 items on the graduation checklist, still only 18 are complete, 
+so in that area there has been no progress. 
+All open items are documentation and ASF process and infrastructure related.
+There still is no 3.0.0-incubating-alpha1 release.
+
+The developer list currently has 82 members, a minor decrease from 86; and the
+user list has 191 members, an increase from 187. 

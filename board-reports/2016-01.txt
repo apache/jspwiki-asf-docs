@@ -1,0 +1,54 @@
+## Description: 
+   A feature-rich and extensible WikiWiki engine built around the standard  
+        JEE components (Java, servlets, JSP). 
+   
+## Issues: 
+ - Although almost no dev activity on this quarter (see below), we think 
+   there are no issues requiring board attention at this time.
+   
+## Activity: 
+ - Almost no SVN activity this quarter. 
+ - Release 2.10.2 blocked due to developers' lack of time on the project, 
+   (due to being developed on a free-time basis) holidays, etc., but 
+   should be doable on this quarter.
+ - No questions unattended/unanswered on MLs.
+   
+## Health report: 
+ - Although there hasn't been almost any development activity this quarter, 
+   we don't think there's reason to concern: Project is stable / mature 
+   with a slow pace of development, plus there's enough people to oversee 
+   the project (vote on releases, answer questions, etc.). 
+ - Activity is expected to be picked up once we release 2.10.2.
+   
+## PMC changes: 
+   
+ - Currently 10 PMC members. 
+ - No new PMC members added in the last 3 months 
+ - Last PMC addition was David Vittor on Fri Jan 23 2015 
+   
+## Committer base changes: 
+   
+ - Currently 15 committers. 
+ - No new committers added in the last 3 months 
+ - Last committer addition was David Vittor at Fri Jan 02 2015 
+   
+## Releases: 
+   
+ - Last release was 2.10.1 on Thu May 29 2014 
+   
+## Mailing list activity: 
+   
+ - dev@jspwiki.apache.org:  
+    - 86 subscribers (up 2 in the last 3 months): 
+    - 40 emails sent to list (132 in previous quarter) 
+   
+ - user@jspwiki.apache.org:  
+    - 177 subscribers (up 5 in the last 3 months): 
+    - 29 emails sent to list (27 in previous quarter) 
+   
+   
+## JIRA activity: 
+   
+ - 4 JIRA tickets created in the last 3 months 
+ - 3 JIRA tickets closed/resolved in the last 3 months 
+   

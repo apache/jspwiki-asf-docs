@@ -1,0 +1,34 @@
+JSPWiki is a Java-based wiki engine
+
+Anything the board should be aware of?
+---------------------------------------
+Still having some issues transferring the resources from Incubator to TLP; 
+currently unable to edit the website, except but doing directly on 
+production/ URL. Following up this issue with Infra: INFRA-6577, INFRA-6611,
+INFRA-6492 and JSPWIKI-787.
+
+We're also looking forward having a VM to host live (JSP)wikis with 
+documentation, a sandbox and a general entry point to newcomers. 
+Historically, these wikis have been were JSPWiki's community has built up. A
+couple of JIRAs filed to follow up this issue with Infra: INFRA-6580,
+INFRA-5588 and JSPWIKI-739. 
+
+Hopefully by the time of the board meeting, these infra issues will have 
+been resolved.
+
+Releases / Development
+----------------------
+Last release on 15th May, 2013
+
+Some development has occured regarding 3rd party libraries being upgraded, 
+incubator references being removed, and some activity regarding 
+issues pointed out by analysis.a.o.
+
+Community
+---------
+Last Committer: Glen Mazza (gmazza), on 04th Jan, 2013
+Last PMC: Glen Mazza (gmazza), on 04th Jan, 2013
+
+Both dev@j.a.o and user@j.a.o seem to have a little more activity than
+when being at Incubator. 91 people subscribed to dev@j.a.o, 185 people 
+subscribed at user@j.a.o

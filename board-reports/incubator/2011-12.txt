@@ -1,0 +1,12 @@
+2011 December JSPWiki Incubator status report
+
+JSPWiki has been incubating since September 2007.
+
+JSPWiki is a JSP-based wiki program.
+
+No bugs were fixed in this period.
+There has been almost no activity, few developers seem to have time for JSPWiki.
+Also hardly any activity on the user and dev mailing lists.
+
+The developer list currently has ?? subscribers; and the
+user list has ??? subscribers.

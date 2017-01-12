@@ -1,0 +1,17 @@
+2008-January JSPWiki Incubator status report
+
+JSPWiki has been incubating since September 2007.
+
+JSPWiki is a JSP-based wiki program.
+
+JSPWiki 2.6 LGPL was finally released just before Christmas, so the development
+could finally be moved to the Apache Incubation SVN. The code is expected
+to be transferred to the Apache repository within the next few weeks.
+
+The incubator web site was also created.
+
+Community
+
+The developer and user mailing lists continue to have strong activity,
+with a few dozen active participants and over a hundred monitoring the lists.
+

@@ -1,0 +1,31 @@
+2010 April JSPWiki Incubator status report
+
+JSPWiki has been incubating since September 2007.
+
+JSPWiki is a JSP-based wiki program.
+
+
+Quite a few bugs were fixed in the JSP tier.
+Slimbox was upgraded, various media formats are now
+supported so you can view youtube or facebook videos, other
+wikipages, or even external web-pages.
+Also support was added for multi-file uploads.
+We also added an experimental wysiwyg editor based on mootools.
+
+ReferenceManager was rewritten to use JCR UUIDs to keep references
+between pages.
+
+A couple of bugs were fixed and, and the unit test compliance has climbed 
+from 96.8  to 99.3 %.  
+
+Of the 28 items (1 was recently added) on the graduation checklist, 
+19 are complete, so in that area there has been not much progress, 
+with the exception of fixing junit tests.. 
+All open items are documentation and ASF process and infrastructure related.
+There still is no 3.0.0-incubating-alpha1 release.
+
+It looks like things have slowed down the last few weeks for an unknown reason.
+
+The developer list currently has 88 members, an increase from 82; and the
+user list has 193 members, an increase from 191. 
+

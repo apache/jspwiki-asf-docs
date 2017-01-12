@@ -1,0 +1,25 @@
+Status Report for the Apache JSPWiki project - January 2015
+
+JSPWiki is a Java-based wiki engine
+
+== Anything the board should be aware of?
+There are no Board-level issues at this time.
+
+== Releases / Development
+Last release, 2.10.1, on 29th May, 2014
+
+Regarding development, this period involved 7 JIRAs solved, most
+notable of them Wiki On a Stick functionality being merged into
+trunk.
+
+== Community
+Last Committer: David Vittor (dvittor), on 23rd Dec, 2014
+Last PMC: David Vittor (dvittor), on 23rd Dec, 2014
+
+This quarter we had another decrease on activity on MLs, with ~20
+messages per month at dev@j.a.o, when compared to previous period
+(~50), and user@j.a.o also going back to ~4 messages per month (average
+of 10 on last period). Questions are being answered, though.
+
+88 (-1) people subscribed to dev@j.a.o, 172 (-5) people subscribed at
+user@j.a.o

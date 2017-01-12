@@ -1,0 +1,17 @@
+2007-December JSPWiki Incubator status report
+
+JSPWiki has been incubating since September 2007.
+
+JSPWiki is a JSP-based wiki program.
+
+The final JSPWiki LGPL release has been postponed due to a large
+number of security vulnerabilities that were disclosed to us
+right before the release, so unfortunately that has also delayed
+the move of the codebase under ASF's infrastructure.
+
+The JSPWiki user community is in the process of transition from 
+outside Apache. There are close to 100 subscribers to the user list.
+The developer list has meanwhile continued growing, and new people
+have come forward with patches and expressions of interest on
+working on the code.
+

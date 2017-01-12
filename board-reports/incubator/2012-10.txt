@@ -1,0 +1,26 @@
+2012 October JSPWiki Incubator status report
+
+JSPWiki has been incubating since September 2007.
+
+JSPWiki is a JSP-based wiki program.
+
+Still following the objective of making the first Apache release:
+
+A few JIRA issues were raised in this period due to incorrect
+handling of external dependencies. They have been fixed, so there 
+aren't any other technical issues blocking a release. A new RC and
+a release vote has been cast in jspwiki-dev, with 10 +1 (6 from
+PPMC members). However, we don't have any IPMC vote yet, so the release
+thread was forwarded to general on Friday 26th. 
+
+It's likely that we will have our first Apache release during the
+first weeks of October. 
+
+The main issues blocking graduation keep being the same as 
+in the last report: resolution acceptance, community and IPMC 
+graduation vote, the latter requiring at least one ASF 
+release.
+
+The developer list currently has 91 subscribers; and the
+user list has 186 subscribers.
+

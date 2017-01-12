@@ -1,0 +1,25 @@
+Status Report for the Apache JSPWiki project - July 2014
+
+JSPWiki is a Java-based wiki engine
+
+== Anything the board should be aware of?
+There are no Board-level issues at this time.
+
+== Releases / Development
+Last release, 2.10.1, on 29th May, 2014
+
+Aside from efforts put into the release, it's been a quieter period than
+usual, although a contribution was incorporated into trunk and questions
+are being answered on MLs.
+
+== Community
+Last Committer: Glen Mazza (gmazza), on 04th Jan, 2013
+Last PMC: Glen Mazza (gmazza), on 04th Jan, 2013
+
+Back to normal levels of activity on ML, meaning a rough 30% decrease of 
+activity at dev@j.a.o on this period, when compared to previous period, with
+an average of almost 70 messages per month, with user@j.a.o also going back 
+to normal levels (16-17 messages per month, on average).
+
+88 (-1) people subscribed to dev@j.a.o, 177 (+2) people subscribed at
+user@j.a.o

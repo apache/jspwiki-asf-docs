@@ -1,0 +1,37 @@
+JSPWiki is a Java-based wiki engine
+
+Anything the board should be aware of?
+---------------------------------------
+There are no Board-level issues at this time.
+
+Releases / Development
+----------------------
+Last release on 15th May, 2013
+
+Activity has increased this period, part because of public wiki 
+published, part because 2.10.0 release is being pursued. A release vote
+for 2.10.0 was held, but didn't pass due to a couple of issues which 
+surfaced during the vote. Those have been fixed, but we have taken the
+opportunity to include one contribution and fix other minor issues.
+
+2.10.0 should be released this January.
+
+Development has also been associated to the migration of wiki pages
+from www.ecyrd.com/JSPWiki (former www.jspwiki.org) to our new wiki.
+
+Community
+---------
+Last Committer: Glen Mazza (gmazza), on 04th Jan, 2013
+Last PMC: Glen Mazza (gmazza), on 04th Jan, 2013
+
+Activity has returned to it's normal levels at dev@j.a.o, whereas 
+user@j.a.o continues with more or less the same amount of (little) 
+activity.
+
+We have received a couple of contributions, the Clean Blue template,
+to be included on the upcoming 2.10.0 release and the EntityManager,
+which should be looked at after 2.10.0. We also received a couple of
+patches in this period, which have been incorporated into trunk.
+
+92 (+0) people subscribed to dev@j.a.o, 175 (-1) people subscribed at
+user@j.a.o

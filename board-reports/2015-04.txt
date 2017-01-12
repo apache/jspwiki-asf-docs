@@ -1,0 +1,49 @@
+Report from the Apache JSPWiki project
+
+## Description:
+
+   A feature-rich and extensible WikiWiki engine built around the standard 
+        J2EE components (Java, servlets, JSP).
+  
+## Activity:
+
+ - Again, slow pace of development, including (but not limited to) some
+   interesting functionalities committed into trunk:
+   * Portable builds of JSPWiki.
+   * Complete rewrite of AJAX functionality.
+   * JSPWiki configurable via environment variables, which allows easy
+     dockerization.
+
+ - Few questions at user@j.a.o, with their follow-ups, with dev@j.a.o mostly
+   containing JIRA notifications.
+  
+## Issues:
+
+ - there are no issues requiring board attention at this time.
+  
+## PMC/Committership changes:
+  
+ - Currently 15 committers and 10 PMC members in the project.
+ - David Vittor was added to the PMC on Thu Jan 22 2015.
+ - Last committer addition was David Vittor at Fri Jan 02 2015.
+ - Glen Mazza resigned from PMC on 31/03/2015, we all thank him for his
+   service.
+  
+## Releases:
+  
+ - Last release was 2.10.1 on Thu May 29 2014.
+  
+## Mailing list activity:
+  
+ - dev@jspwiki.apache.org: 
+    - 86 subscribers (down -2 in the last 3 months):
+    - 127 emails sent to list (60 in previous quarter).
+  
+ - user@jspwiki.apache.org: 
+    - 173 subscribers (up 1 in the last 3 months):
+    - 29 emails sent to list (14 in previous quarter).
+  
+## JIRA activity:
+  
+ - 5 JIRA tickets created in the last 3 months.
+ - 16 JIRA tickets closed/resolved in the last 3 months.

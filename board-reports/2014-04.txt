@@ -1,0 +1,37 @@
+JSPWiki is a Java-based wiki engine
+
+Anything the board should be aware of?
+---------------------------------------
+There are no Board-level issues at this time.
+
+Releases / Development
+----------------------
+Last release on 1st Feb, 2014
+
+As an effect of releasing 2.10.0, we've had several JIRAs raised,
+accompanied by their corresponding patches, 5 of them already
+on trunk.
+
+A 2.10.1 release is being discussed at dev@jspwiki.apache.org, which
+should fix a couple of issues found after 2.10.0; this release will 
+also add the ability of loading plugins from an outside directory.
+
+Aside from this, there is work in progress on a new template / UI for
+JSPWiki and on having portable binaries.
+
+Community
+---------
+Last Committer: Glen Mazza (gmazza), on 04th Jan, 2013
+Last PMC: Glen Mazza (gmazza), on 04th Jan, 2013
+
+We asked one individual to join as PMC and committer, but the 
+invitation was declined.
+
+One JSPWiki talk at ApacheCon, given by Siegfried Göeschl
+
+2.10.0 release brought a rough 30% increase on activity at dev@j.a.o 
+this period, with ~120 messages per month, with user@j.a.o also 
+having a big spike this quarter.
+
+89 (-3) people subscribed to dev@j.a.o, 175 (+0) people subscribed at
+user@j.a.o

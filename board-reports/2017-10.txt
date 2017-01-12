@@ -1,0 +1,56 @@
+## Description:
+ - A feature-rich and extensible WikiWiki engine built around the standard
+JEE components (Java, servlets, JSP).
+   
+## Issues:
+ - there are no issues requiring board attention at this time.
+   
+## Activity:
+ - This quarter has been a silent one, with all the activity mostly happening
+   on holidays (roughly, second half of December, first half of January)
+   
+## Health report:
+ - Apache JSPWiki remains as a 100% volunteer effort, so quiet periods like
+   this one are not uncommon. There were commits from 2 individuals on this
+   period.
+   
+ - This quarter should have seen some movement regarding the transition of
+   jspwiki.a.o from ASF's CMS to JSPWiki. I voluntereed for this task, but
+   have been totally away for almost all the quarter, so no progress here...
+   
+ - All questions on ML where answered, and there are enough people to
+   provide project oversight. Finally, there weren't new blog posts on this quarter.
+      
+## PMC changes:
+   
+ - Currently 11 PMC members.
+ - No new PMC members added in the last 3 months
+ - Last PMC addition was Dave Koelmeyer on Wed Apr 06 2016
+   
+## Committer base changes:
+   
+ - Currently 16 committers.
+ - No new committers added in the last 3 months
+ - Last committer addition was Dave Koelmeyer at Wed Apr 06 2016
+   
+## Releases:
+   
+ - Last release was 2.10.2 on Sat Feb 20 2016
+   
+## Mailing list activity:
+   
+ - As outlined on the Activity section, this has been a quiet quarter, which
+   reflects on ML statistics:
+   
+ - dev@jspwiki.apache.org:  
+    - 87 subscribers (down -1 in the last 3 months):
+    - 47 emails sent to list (84 in previous quarter)
+   
+ - user@jspwiki.apache.org:  
+    - 178 subscribers (up 0 in the last 3 months):
+    - 28 emails sent to list (30 in previous quarter)
+   
+## JIRA activity:
+   
+ - 7 JIRA tickets created in the last 3 months
+ - 6 JIRA tickets closed/resolved in the last 3 months 

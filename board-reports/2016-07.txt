@@ -1,0 +1,43 @@
+## Description:
+  A feature-rich and extensible WikiWiki engine built around the standard 
+JEE components (Java, servlets, JSP).
+ 
+## Issues:
+- There are no issues requiring board attention at this time. There isn't much
+activity, but enough people to provide oversight.
+ 
+## Activity:
+- Almost no activity on this period, a few questions were raised and answered
+on MLs and a couple of bugs fixed in SVN at the beginning of the quarter.
+- A new blog was setup at https://blogs.apache.org/jspwiki/ followed with a
+couple of posts.
+
+## Health report:
+- Project is stable / mature with a slow pace of development, although there's
+enough people to oversee the project (vote on releases, answer questions,
+etc.).
+ 
+## PMC changes:
+- Currently 11 PMC members.
+- No new PMC members added in the last 3 months.
+- Last PMC addition was Dave Koelmeyer on Wed Apr 06 2016.
+ 
+## Committer base changes:
+- Currently 16 committers.
+- No new committers added in the last 3 months.
+- Last committer addition was Dave Koelmeyer at Wed Apr 06 2016.
+ 
+## Releases:
+- Last release was 2.10.2 on Sat Feb 20 2016
+ 
+## Mailing list activity:
+- It's been a quiet quarter, although dev@jspwiki.a.o shows an increase in
+activity, it was caused by a generalised spam attack on ASF's JIRA.
+ 
+- dev@jspwiki.apache.org: 
+   - 88 subscribers (up 0 in the last 3 months):
+   - 170 emails sent to list (129 in previous quarter)
+ 
+- user@jspwiki.apache.org: 
+   - 181 subscribers (up 1 in the last 3 months):
+   - 9 emails sent to list (67 in previous quarter) 

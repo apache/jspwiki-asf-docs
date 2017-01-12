@@ -1,0 +1,19 @@
+2007-November JSPWiki Incubator status report
+
+JSPWiki infrastructure has been moved over to Apache: the issue trackers
+and the mailing lists are now fully operational.  We've also started the process
+of getting ICLAs and Software Grants from all the previous contributors who still
+hold copyright over the code.
+
+All committers identified in the original proposal plus the mentors
+have commit access and are on the private mailing list.
+
+The dev alias has attracted a couple dozen outside members.
+
+The final LGPL-licensed JSPWiki release is almost ready, after which we will
+start moving code into the Apache SVN.  This is to minimize having to maintain two
+separate branches, one LGPL and one Apache -licensed.
+
+The questions on how jspwiki.org domain and the jspwiki.org websites should
+be transferred to Apache have not yet been discussed.
+

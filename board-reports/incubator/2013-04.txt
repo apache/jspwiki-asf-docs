@@ -1,0 +1,19 @@
+2013 April JSPWiki Incubator status report
+
+JSPWiki has been incubating since September 2007.
+
+JSPWiki is a JSP-based wiki program.
+
+The most significant movements in this period have been:
+- ongoing vote to release Apache JSPWiki (incubating) 2.9.1
+- 1 patch incorporated into trunk, 15 JIRAs resolved
+
+Compared to the last period, the traffic on jspwiki-dev has been halved, 
+whereas the traffic at jspwiki-user has increased slightly.  
+
+The main issues blocking graduation are: resolution acceptance, community and 
+IPMC graduation vote. If the release vote is succesful, we're thinking on
+discussing leaving the Incubator + graduate as TLP
+
+The developer list currently has (?) subscribers; and the user list has (?) 
+subscribers.

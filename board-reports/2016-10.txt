@@ -1,0 +1,47 @@
+## Description: 
+ - A feature-rich and extensible WikiWiki engine built around the standard 
+JEE components (Java, servlets, JSP).
+   
+## Issues: 
+ - There are no issues requiring board attention at this time. There's enough 
+people to provide oversight.
+   
+## Activity: 
+ - Source code was migrated from SVN to Git (+ its integrations) in order to 
+ease contributions.
+
+ - We've also talked about moving jspwiki.a.o from ASF's CMS to JSPWiki 
+(https://s.apache.org/PFXI) as a) historically it's always been that way, and
+b) we could use it as showcase, having a separate wiki doesn't seem to be 
+enough (https://issues.apache.org/jira/browse/JSPWIKI-1030). I volunteered 
+for the task (moving content, copyright compliance, asking infra) but haven't
+had time this quarter. Hopefully this will change on the upcoming quarter.
+
+ - 5 new blog posts at https://blogs.apache.org/jspwiki/
+   
+## Health report: 
+ - All questions asked on MLs where answered, with a few JIRA issues solved 
+and some other fixes that went into trunk/master.
+
+ - 3 JIRA issues fixes came from an external contributor.
+   
+## PMC changes: 
+   
+ - Currently 11 PMC members. 
+ - No new PMC members added in the last 3 months 
+ - Last PMC addition was Dave Koelmeyer on Wed Apr 06 2016 
+   
+## Committer base changes: 
+   
+ - Currently 16 committers. 
+ - No new committers added in the last 3 months 
+ - Last committer addition was Dave Koelmeyer at Wed Apr 06 2016 
+   
+## Releases: 
+   
+ - Last release was 2.10.2 on Sat Feb 20 2016 
+   
+## JIRA activity: 
+   
+ - 6 JIRA tickets created in the last 3 months 
+ - 4 JIRA tickets closed/resolved in the last 3 months 

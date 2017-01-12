@@ -1,0 +1,13 @@
+2007-October JSPWiki Incubator status report
+
+The project has kicked off with some basic infrastructure now in place.
+
+Mailing lists have been set up and subscriptions from the previous mailing
+lists are being transferred.
+
+The svn repository is ready for code.
+
+The JIRA project is set up.
+
+The initial committers have sent ICLA's and accounts have been requested.
+

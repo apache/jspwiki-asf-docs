@@ -1,0 +1,27 @@
+JSPWiki is a Java-based wiki engine
+
+Anything the board should be aware of?
+---------------------------------------
+There are no Board-level issues at this time.
+
+Releases / Development
+----------------------
+Last release on 15th May, 2013
+
+Little activity regarding development this month.
+
+Development has been mainly focused on setting up our public wikis, 
+which are near complete, pending for some redirections to be performed
+at infra, cleaning up the website now that we're able to edit the 
+site, and fixing an issue regarding oscache to ehcache transition.
+
+Community
+---------
+Last Committer: Glen Mazza (gmazza), on 04th Jan, 2013
+Last PMC: Glen Mazza (gmazza), on 04th Jan, 2013
+
+Almost silent month at dev@j.a.o, whereas user@j.a.o continues
+with more or less the same amount of (little) activity
+
+92 (+1) people subscribed to dev@j.a.o, 176 (+1) people subscribed at
+user@j.a.o
