@@ -1,0 +1,51 @@
+## Description:
+ - A feature-rich and extensible WikiWiki engine built around the standard
+JEE components (Java, servlets, JSP).
+   
+## Issues:
+ - there are no issues requiring board attention at this time.
+   
+## Activity: 
+ - Finally, our new website was released, based on JSPWiki's Haddock template.
+   Most of the site is also managed by JSPWiki now. Apart from this, there
+   have been three code pushes, regarding UI, fixing a bug and some work to
+   ease the development of external parsers
+   
+## Health report: 
+ - Quiet quarter, with commits from three people on the different project 
+   git repos. 
+ - There's enough oversight of the project
+   
+## PMC changes: 
+   
+ - Currently 11 PMC members. 
+ - No new PMC members added in the last 3 months 
+ - Last PMC addition was Dave Koelmeyer on Wed Apr 06 2016 
+   
+## Committer base changes: 
+   
+ - Currently 16 committers. 
+ - No new committers added in the last 3 months 
+ - Last committer addition was Dave Koelmeyer at Wed Apr 06 2016 
+   
+## Releases: 
+   
+ - Last release was 2.10.2 on Sat Feb 20 2016 
+   
+## Mailing list activity: 
+   
+ - As noted before, this has been a quiet quarter, and this also reflects
+   on a general decrease on both user and dev MLs:
+   
+ - dev@jspwiki.apache.org:  
+    - 85 subscribers (down -1 in the last 3 months): 
+    - 41 emails sent to list (111 in previous quarter) 
+   
+ - user@jspwiki.apache.org:  
+    - 178 subscribers (up 1 in the last 3 months): 
+    - 16 emails sent to list (42 in previous quarter) 
+   
+## JIRA activity: 
+   
+ - 3 JIRA tickets created in the last 3 months 
+ - 3 JIRA tickets closed/resolved in the last 3 months 
