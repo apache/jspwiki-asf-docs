@@ -7,8 +7,8 @@ JEE components (Java, servlets, JSP).
    
 ## Activity: 
  - It's been another quiet quarter, with only a couple of commits needed to
-   complete the decouple of the markup parsing and rendering, so that other
-   alternatives can be used
+   complete markup's parsing and rendering decoupling, so that other
+   alternatives to JSPWiki markup parser / renderer can be used.
  
  - As something stripped from @dayjob, Markdown support will hopefully 
    arrive next weeks (see "Markdown support" thread at dev@jspwiki.a.o for
@@ -17,7 +17,7 @@ JEE components (Java, servlets, JSP).
    
 ## Health report: 
  - Another quiet quarter, but enough people from PMC show up to provide
-   enough oversight. 
+   oversight. 
 
  - Several ideas being discussed at user@jspwiki.a.o to increase 
    contributions [2], namely:
@@ -25,8 +25,8 @@ JEE components (Java, servlets, JSP).
    * lower committership barrier by granting commits rights to 
      a) any ASF committer 
      b) any other people who simply asks for it
-     c) adopting something similar to a release train and release 
-        master every four months or so
+   * adopting something similar to a release train, and release 
+     master every four months or so
    
 ## PMC changes: 
    
