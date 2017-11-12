@@ -1,0 +1,63 @@
+## Description: 
+ - A feature-rich and extensible WikiWiki engine built around the standard
+JEE components (Java, servlets, JSP).
+   
+## Issues: 
+ - there are no issues requiring board attention at this time.
+   
+## Activity: 
+ - It's been another quiet quarter, with only a couple of commits needed to
+   complete the decouple of the markup parsing and rendering, so that other
+   alternatives can be used
+ 
+ - As something stripped from @dayjob, Markdown support will hopefully 
+   arrive next weeks (see "Markdown support" thread at dev@jspwiki.a.o for
+   details [1]), at least for discussion and study. Scope and things 
+   remaining to be done still ongoing at dev@jspwiki.a.o
+   
+## Health report: 
+ - Another quiet quarter, but enough people from PMC show up to provide
+   enough oversight. 
+
+ - Several ideas being discussed at user@jspwiki.a.o to increase 
+   contributions [2], namely:
+   * move to Github as primary repo
+   * lower committership barrier by granting commits rights to 
+     a) any ASF committer 
+     b) any other people who simply asks for it
+     c) adopting something similar to a release train and release 
+        master every four months or so
+   
+## PMC changes: 
+   
+ - Currently 11 PMC members. 
+ - No new PMC members added in the last 3 months 
+ - Last PMC addition was Dave Koelmeyer on Wed Apr 06 2016 
+   
+## Committer base changes: 
+   
+ - Currently 16 committers. 
+ - No new committers added in the last 3 months 
+ - Last committer addition was Dave Koelmeyer at Wed Apr 06 2016 
+   
+## Releases: 
+   
+ - Last release was 2.10.2 on Sat Feb 20 2016 
+   
+## Mailing list activity: 
+   
+ - dev@jspwiki.apache.org:  
+    - 85 subscribers (up 0 in the last 3 months): 
+    - 31 emails sent to list (39 in previous quarter) 
+   
+ - user@jspwiki.apache.org:  
+    - 178 subscribers (down -1 in the last 3 months): 
+    - 23 emails sent to list (13 in previous quarter) 
+   
+## JIRA activity: 
+   
+ - 1 JIRA tickets created in the last 3 months 
+ - 0 JIRA tickets closed/resolved in the last 3 months 
+ 
+[1]: https://s.apache.org/KXQO
+[2]: https://s.apache.org/prGg
