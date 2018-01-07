@@ -1,0 +1,63 @@
+## Description: 
+ - A feature-rich and extensible WikiWiki engine built around the standard
+JEE components (Java, servlets, JSP).
+   
+## Issues: 
+ - there are no issues requiring board attention at this time.
+   
+## Activity: 
+ - Compared to last report, there has been an up-tick in activity this 
+   quarter, where activity has been focused on these areas:
+   * Initial support for Markdown: there is a new custom parser + renderer
+     for Markdown, although not complete yet (see 
+     https://jspwiki-wiki.apache.org/Wiki.jsp?page=Markdown%20Support for 
+     details)
+   * Fixed a bug regarding the renderer cache (JSPWIKI-1064)
+   * Tests were migrated from JUnit 3 to JUnit 4
+   * Generation of a test-jar, with several with utilities to ease testing
+     of JSPWiki custom components.
+ - No questions unanswered on MLs, with at least 3 people from PMC showing 
+   up there.
+   
+## Health report: 
+ - Last report highlighted some ideas to increase contributions:
+   * move to Github as primary repo: done; we're also encouraging the use of 
+     jspwiki as a topic on GitHub to increase contributions' visibility.
+   * adopting something similar to a release train: we should release 2.10.3
+     next February.
+   * lower committership barrier by granting commits rights to 
+     a) any ASF committer.
+     b) any other people who simply asks for it.
+     Other than discussing the idea, we haven't done anything, as nobody new
+     has showed up yet..
+   
+## PMC changes: 
+   
+ - Currently 11 PMC members. 
+ - No new PMC members added in the last 3 months 
+ - Last PMC addition was Dave Koelmeyer on Wed Apr 06 2016 
+   
+## Committer base changes: 
+   
+ - Currently 16 committers. 
+ - No new committers added in the last 3 months 
+ - Last committer addition was Dave Koelmeyer at Wed Apr 06 2016 
+   
+## Releases: 
+   
+ - Last release was 2.10.2 on Sat Feb 20 2016 
+   
+## Mailing list activity: 
+   
+ - dev@jspwiki.apache.org:  
+    - 83 subscribers (down -2 in the last 3 months): 
+    - 40 emails sent to list (39 in previous quarter) 
+   
+ - user@jspwiki.apache.org:  
+    - 176 subscribers (down -2 in the last 3 months): 
+    - 52 emails sent to list (10 in previous quarter) 
+   
+## JIRA activity: 
+   
+ - 1 JIRA tickets created in the last 3 months 
+ - 3 JIRA tickets closed/resolved in the last 3 months 
