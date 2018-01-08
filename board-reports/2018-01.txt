@@ -6,16 +6,16 @@ JEE components (Java, servlets, JSP).
  - there are no issues requiring board attention at this time.
    
 ## Activity: 
- - Compared to last report, there has been an up-tick in activity this 
-   quarter, where activity has been focused on these areas:
+ - Compared to last report, there has been an up-tick this quarter,
+   where activity has been focused on these areas:
    * Initial support for Markdown: there is a new custom parser + renderer
      for Markdown, although not complete yet (see 
      https://jspwiki-wiki.apache.org/Wiki.jsp?page=Markdown%20Support for 
      details)
    * Fixed a bug regarding the renderer cache (JSPWIKI-1064)
    * Tests were migrated from JUnit 3 to JUnit 4
-   * Generation of a test-jar, with several with utilities to ease testing
-     of JSPWiki custom components.
+   * Generation of a test-jar, with several utilities to ease testing of
+     JSPWiki custom components.
  - No questions unanswered on MLs, with at least 3 people from PMC showing 
    up there.
    
