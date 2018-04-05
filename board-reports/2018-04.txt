@@ -1,0 +1,54 @@
+## Description: 
+ - A feature-rich and extensible WikiWiki engine built around the standard
+JEE components (Java, servlets, JSP).
+   
+## Issues: 
+ - There are no issues requiring board attention at this time.
+   
+## Activity: 
+ - Finally, we released 2.10.3 last February. It's been almost 2 years since
+   2.10.2, so a lot of features/bugfixes/improvements came through.
+ - 2.10.4 is to be expected on May with a few bugfixes.
+    
+## Health report: 
+ 
+ - No questions unanswered on MLs, with at least 3 people from PMC showing 
+   up there.
+ 
+ - Current PMC Chair asked for replacement, not for anything in particular, 
+   but because it has been a long time with the same PMC Chair. Nobody has 
+   stepped up yet to take the role.
+   
+## PMC changes: 
+   
+ - Currently 11 PMC members. 
+ - No new PMC members added in the last 3 months 
+ - Last PMC addition was Dave Koelmeyer on Wed Apr 06 2016 
+   
+## Committer base changes: 
+   
+ - Currently 16 committers. 
+ - No new committers added in the last 3 months 
+ - Last committer addition was Dave Koelmeyer at Wed Apr 06 2016 
+   
+## Releases: 
+   
+ - 2.10.3 was released on Tue Feb 13 2018 
+   
+## Mailing list activity: 
+   
+ - Normal quarter regarding ML activity, as shown by the statistics. 
+   
+ - dev@jspwiki.apache.org:  
+    - 83 subscribers (up 0 in the last 3 months): 
+    - 85 emails sent to list (38 in previous quarter) 
+   
+ - user@jspwiki.apache.org:  
+    - 175 subscribers (up 0 in the last 3 months): 
+    - 19 emails sent to list (59 in previous quarter) 
+   
+   
+## JIRA activity: 
+   
+ - 4 JIRA tickets created in the last 3 months 
+ - 5 JIRA tickets closed/resolved in the last 3 months 
