@@ -1,0 +1,60 @@
+## Description: 
+ - A feature-rich and extensible WikiWiki engine built around the standard
+JEE components (Java, servlets, JSP).
+   
+## Issues: 
+ - There are no issues requiring board attention at this time.
+   
+## Activity: 
+ - 2.10.4 was released on May with better support for mobile devices on 
+   Haddock, some important fixes regarding caches / ACLs and a few more 
+   features and bugfixes.
+ 
+ - 2.10.5 expected for August.
+ 
+ - We received our first PR on Github. It didn't make it to master because of 
+   that same fix being included as a part of a subsequent commit, but our first 
+   interaction merits a mention.
+
+ - New code has been mostly about fine-tuning Haddock template for mobile 
+   devices; also a fix for the default template and smoothing the build/release
+   process.
+    
+## Health report: 
+ 
+ - No questions unanswered on MLs, with at least 3 people from PMC showing 
+   up there.
+   
+## PMC changes: 
+   
+ - Currently 11 PMC members. 
+ - No new PMC members added in the last 3 months 
+ - Last PMC addition was Dave Koelmeyer on Wed Apr 06 2016 
+   
+## Committer base changes: 
+   
+ - Currently 16 committers. 
+ - No new committers added in the last 3 months 
+ - Last committer addition was Dave Koelmeyer at Wed Apr 06 2016 
+   
+## Releases: 
+   
+ - 2.10.4 was released on Wed May 23 2018 
+   
+## Mailing list activity: 
+   
+ - Normal quarter regarding ML activity, as shown by the statistics. 
+   
+  - dev@jspwiki.apache.org:  
+    - 83 subscribers (up 0 in the last 3 months): 
+    - 80 emails sent to list (83 in previous quarter) 
+   
+ - user@jspwiki.apache.org:  
+    - 174 subscribers (down -1 in the last 3 months): 
+    - 26 emails sent to list (19 in previous quarter) 
+   
+   
+## JIRA activity: 
+   
+ - 3 JIRA tickets created in the last 3 months 
+ - 5 JIRA tickets closed/resolved in the last 3 months 
