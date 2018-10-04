@@ -1,0 +1,61 @@
+## Description: 
+## Description: 
+ - A feature-rich and extensible WikiWiki engine built around the standard
+JEE components (Java, servlets, JSP).
+   
+## Issues: 
+ - There are no issues requiring board attention at this time.
+   
+## Activity: 
+ - 2.10.5 was released on September, featuring page restore functionality to 
+   recover unsaved page edits on Haddock editor, improved usability for 
+   mobile and touch devices, a bug fix and a few minor things
+ 
+ - We decided to switch to 2.11, meaning we'll probably broke some backwards 
+   compatibility. We'll also update to Java 8 and Servlet 3.1/ JSP 2.3 and
+   finally switch to Haddock as the default template
+ 
+ - Given that our current pace is slow, we'll probably release some 
+   milestones on the following quarters. This just means we'll haven't 
+   finished transitioning to 2.11, but the releases should be as usable as 
+   always.   
+   
+## Health report: 
+ - No questions unanswered on MLs, with at least 3 people from PMC showing 
+   up there. No potential candidates for PMC/committership yet.
+ 
+ - Slow pace of development, but nothing unusual.
+   
+## PMC changes: 
+   
+ - Currently 11 PMC members. 
+ - No new PMC members added in the last 3 months 
+ - Last PMC addition was Dave Koelmeyer on Wed Apr 06 2016 
+   
+## Committer base changes: 
+   
+ - Currently 16 committers. 
+ - No new committers added in the last 3 months 
+ - Last committer addition was Dave Koelmeyer at Wed Apr 06 2016 
+   
+## Releases: 
+   
+ - 2.10.5 was released on Tue Sep 04 2018 
+   
+## Mailing list activity: 
+   
+ - Normal quarter regarding ML activity, as shown by the statistics.
+   
+ - dev@jspwiki.apache.org:  
+    - 82 subscribers (down -1 in the last 3 months): 
+    - 53 emails sent to list (78 in previous quarter) 
+   
+ - user@jspwiki.apache.org:  
+    - 173 subscribers (down -1 in the last 3 months): 
+    - 8 emails sent to list (26 in previous quarter) 
+   
+   
+## JIRA activity: 
+   
+ - 2 JIRA tickets created in the last 3 months 
+ - 3 JIRA tickets closed/resolved in the last 3 months 
