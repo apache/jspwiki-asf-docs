@@ -1,0 +1,59 @@
+## Description: 
+ - A feature-rich and extensible WikiWiki engine built around the standard
+JEE components (Java, servlets, JSP).
+   
+## Issues: 
+ - There are no issues requiring board attention at this time. 
+   
+## Activity: 
+ - Development focused on switching the baseline to 2.11, with a vote for the
+   first release on it, 2.11.0.M1, happening on December. The vote did 
+   not succeed due to a number of issues found on the RC, and a new RC is 
+   expected on January.
+   
+ <private>
+ - We received a vulnerability report, which has been already fixed on master
+   and will be part of the upcoming 2.11.0.M1 release.
+ </private>
+   
+## Health report: 
+ - No questions unanswered on MLs, with at least 3 people from PMC showing 
+   up there. No potential candidates for PMC/committership yet.
+ 
+ - Slow pace of development, but nothing unusual.
+   
+## PMC changes: 
+   
+ - Currently 11 PMC members. 
+ - No new PMC members added in the last 3 months 
+ - Last PMC addition was Dave Koelmeyer on Wed Apr 06 2016 
+   
+## Committer base changes: 
+   
+ - Currently 16 committers. 
+ - No new committers added in the last 3 months 
+ - Last committer addition was Dave Koelmeyer at Wed Apr 06 2016 
+   
+## Releases: 
+   
+ - Last release was 2.10.5 on Tue Sep 04 2018 
+   
+## Mailing list activity: 
+   
+ - Normal quarter regarding ML activity, although we've been having a 
+   slow decline on subscribers on both lists, consistently for some months
+   now. Not worrying, but worth noting (also, we are not sure on what to
+   do other than keep working and answering on MLs...).
+   
+ - dev@jspwiki.apache.org:  
+    - 81 subscribers (down -1 in the last 3 months): 
+    - 57 emails sent to list (51 in previous quarter) 
+   
+ - user@jspwiki.apache.org:  
+    - 169 subscribers (down -4 in the last 3 months): 
+    - 3 emails sent to list (7 in previous quarter) 
+   
+## JIRA activity: 
+   
+ - 0 JIRA tickets created in the last 3 months 
+ - 2 JIRA tickets closed/resolved in the last 3 months 
