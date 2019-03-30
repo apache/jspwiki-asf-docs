@@ -1,0 +1,56 @@
+## Description: 
+ - A feature-rich and extensible WikiWiki engine built around the standard
+JEE components (Java, servlets, JSP).
+   
+## Issues: 
+ - there are no issues requiring board attention at this time.
+   
+## Activity: 
+ - This quarter we saw 5 vulnerability reports, 2 of them where declined. We
+ended up having the 2018/Q4 (2.11.0.M1) release on January, 2.11.0.M2 to 
+address one of the vulnerability reports and no too much later 2.11.0.M3 to
+address the other two vulnerabilities. TL-DR: quite busy quarter for our
+regular pace.
+   
+## Health report: 
+ - We continue to have a slight decline of people subscribed to MLs. OTOH, 
+we've had 5 vulnerability reports which somehow translates in people 
+interested enough on Apache JSPWiki, and we were able to pull the releases,
+so I'd say there's enough oversight. Questions do get answered on MLs too.
+   
+## PMC changes: 
+   
+ - Currently 11 PMC members. 
+ - No new PMC members added in the last 3 months 
+ - Last PMC addition was Dave Koelmeyer on Wed Apr 06 2016 
+   
+## Committer base changes: 
+   
+ - Currently 16 committers. 
+ - No new committers added in the last 3 months 
+ - Last committer addition was Dave Koelmeyer at Wed Apr 06 2016 
+   
+## Releases: 
+   
+ - 2.11.0.M1 was released on Tue Jan 29 2019 
+ - 2.11.0.M2 was released on Fri Mar 08 2019 
+ - 2.11.0.M3 was released on Mon Mar 25 2019 
+   
+## Mailing list activity: 
+   
+ - As said above, we continue to have a slight decline of people subscribed. 
+There's been an increase on mails sent due to the activity we've had this 
+quarter.
+   
+ - dev@jspwiki.apache.org:  
+    - 80 subscribers (down -1 in the last 3 months): 
+    - 132 emails sent to list (57 in previous quarter) 
+   
+ - user@jspwiki.apache.org:  
+    - 167 subscribers (down -2 in the last 3 months): 
+    - 22 emails sent to list (3 in previous quarter) 
+   
+## JIRA activity: 
+   
+ - 22 JIRA tickets created in the last 3 months 
+ - 25 JIRA tickets closed/resolved in the last 3 months 
