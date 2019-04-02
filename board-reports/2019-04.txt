@@ -8,7 +8,7 @@ JEE components (Java, servlets, JSP).
 ## Activity: 
  - This quarter we saw 5 vulnerability reports, 2 of them where declined. We
 ended up having the 2018/Q4 (2.11.0.M1) release on January, 2.11.0.M2 to 
-address one of the vulnerability reports and no too much later 2.11.0.M3 to
+address one of the vulnerability reports and not too much later 2.11.0.M3 to
 address the other two vulnerabilities. TL-DR: quite busy quarter for our
 regular pace.
    
@@ -17,6 +17,11 @@ regular pace.
 we've had 5 vulnerability reports which somehow translates in people 
 interested enough on Apache JSPWiki, and we were able to pull the releases,
 so I'd say there's enough oversight. Questions do get answered on MLs too.
+
+- Regarding contributions, we've received this quarter a couple of small 
+PRs which made into master, and a TikaSearchProvider to index a whole lot 
+more types of attachments (JSPWIKI-469), which should also get into master 
+within a short time.
    
 ## PMC changes: 
    
