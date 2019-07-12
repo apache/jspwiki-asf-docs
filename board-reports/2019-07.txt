@@ -1,0 +1,63 @@
+## Description: 
+
+ - A feature-rich and extensible WikiWiki engine built around the standard
+JEE components (Java, servlets, JSP).
+   
+## Issues: 
+
+ - there are no issues requiring board attention at this time.
+   
+## Activity: 
+
+ - As opposed to last quarter, this one has been quieter. 2.11.0.M4 was 
+released, fixing a few XSS vulnerabilities, and there's been a some work
+towards 2.11.0.M5 which should be out on August.
+   
+## Health report: 
+
+ - We've seen some spike of activity at users@j.a.o, no questions unanswered
+on both mailing lists. We also received a couple of vulnerability reports, 
+which are fixed on master and there was a third vulnerability caught by a 
+committer, which is also fixed in master. Last but not least, we have an
+external contribution waiting to be reviewed at JSPWIKI-1114; it should 
+get merged before 2.11.0.M5. 
+
+On the other hand, development has been mostly carried out by a single 
+committer, although that's not totally uncommon on the history of the 
+project.
+
+TL-DR: project remains with enough oversight, usual slow pace of development
+   
+## PMC changes: 
+   
+ - Currently 11 PMC members. 
+ - No new PMC members added in the last 3 months 
+ - Last PMC addition was Dave Koelmeyer on Wed Apr 06 2016 
+   
+## Committer base changes: 
+   
+ - Currently 16 committers. 
+ - No new committers added in the last 3 months 
+ - Last committer addition was Dave Koelmeyer at Wed Apr 06 2016 
+   
+## Releases: 
+   
+ - 2.11.0.M4 was released on Sat May 18 2019 
+   
+## Mailing list activity: 
+   
+ - Little spike of activity on user@j.a.o at the end of the quarter, otoh
+dev saw less emails due to slower pace on development itself .
+   
+ - dev@jspwiki.apache.org:  
+    - 80 subscribers (up 0 in the last 3 months): 
+    - 70 emails sent to list (132 in previous quarter) 
+   
+ - user@jspwiki.apache.org:  
+    - 165 subscribers (down -2 in the last 3 months): 
+    - 37 emails sent to list (22 in previous quarter) 
+   
+## JIRA activity: 
+   
+ - 7 JIRA tickets created in the last 3 months 
+ - 7 JIRA tickets closed/resolved in the last 3 months 
