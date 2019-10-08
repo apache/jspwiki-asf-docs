@@ -1,0 +1,36 @@
+## Description:
+
+A feature-rich and extensible WikiWiki engine built around the standard
+JEE components (Java, servlets, JSP).
+
+## Issues:
+
+There are no issues requiring board attention.
+
+## Membership Data:
+
+Apache JSPWiki was founded 2013-07-17 (6 years ago)
+There are currently 16 committers and 11 PMC members in this project.
+The Committer-to-PMC ratio is roughly 4:3.
+
+Community changes, past quarter:
+- No new PMC members. Last addition was Dave Koelmeyer on 2016-04-06.
+- No new committers. Last addition was Dave Koelmeyer on 2016-04-06.
+
+## Project Activity:
+
+2.11.0.M5 was released on 2019-09-18, followeb by five vulnerability
+disclosures, fixed on that release. This release included JSPWIKI-1114,
+an external contribution noted on previous report.
+
+## Community Health:
+
+Uptick of e-mails at dev@jspwiki.apache.org most probably related to 2.11.0.M5
+release. Uptick of e-mails at user@jspwiki.apache.org due to more than usual
+amount of questions and follow ups on July.
+
+No questions unanswered on MLs, project remains with enough oversight, with 
+usual slow pace of development.
+
+<private>There is one vulnerability report which still needs to be
+ studied/addressed.</private>
