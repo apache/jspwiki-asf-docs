@@ -23,6 +23,9 @@ Community changes, past quarter:
 disclosures, fixed on that release. This release included JSPWIKI-1114,
 an external contribution noted on previous report.
 
+This quarter we've also had another vulnerability report which has been
+rejected.
+
 ## Community Health:
 
 Uptick of e-mails at dev@jspwiki.apache.org most probably related to 2.11.0.M5
@@ -31,6 +34,3 @@ amount of questions and follow ups on July.
 
 No questions unanswered on MLs, project remains with enough oversight, with 
 usual slow pace of development.
-
-<private>There is one vulnerability report which still needs to be
- studied/addressed.</private>
