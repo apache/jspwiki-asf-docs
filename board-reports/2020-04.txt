@@ -1,0 +1,61 @@
+## Description:
+The mission of JSPWiki is the creation and maintenance of software related to 
+Leading open source WikiWiki engine, feature-rich and built around standard 
+JEE components (Java, servlets, JSP).
+
+## Issues:
+There are no issues requiring board attention.
+
+## Membership Data:
+Apache JSPWiki was founded 2013-07-17 (7 years ago)
+There are currently 16 committers and 11 PMC members in this project.
+The Committer-to-PMC ratio is roughly 4:3.
+
+Community changes, past quarter:
+- No new PMC members. Last addition was Dave Koelmeyer on 2016-04-06.
+- No new committers. Last addition was Dave Koelmeyer on 2016-04-06.
+
+## Project Activity:
+This quarter's project activity has revolved mostly around the following items
+* The refactor of WikiEngine, one of the core classes of JSPWiki (JSPWIKI-120)
+* The development of a public API for JSPWiki's custom extensions
+  (JSPWIKI-303)
+* Other bugfixes and improvements
+
+Because of two first, we missed our release train stop this quarter, as in the
+moment of releasing the master branch, it wasn't backwards compatible with
+current 3rd party extensions. We should be able to release next quarter,
+though.
+
+The development of the public API also allowed us to add the possibility of
+including custom managers on the Wiki Engine (JSPWIKI-806) and the ability of
+swapping core JSPWiki classes (WikiContext, WikiEngine, WikiPage, etc.) with
+custom ones through an SPI, bringing up JSPWiki pluggability another step up.
+
+## Community Health:
+There is enough oversight, with questions getting answered on MLs. The public
+API sparkled a conversation on how / when to break backwards compatibility,
+which ended up on specifying /clarifying our versioning proposal [#1].
+
+We received one security report this quarter, but ended up rejecting it.
+
+One pull request merged into master, with 3 people committing into master.
+
+In order to foster / attract contributors, we also had an overhaul of
+documentation related to different ways of extending / customizing JSPWiki:
+- How to write plugins [#2]
+- How to write filters [#3]
+- How to write page providers [#4]
+- Starting point for developing custom extensions [#5]
+- JSPWiki's public API [#6]
+- Adding / improving translations [#7], [#8]
+
+[#1] https://jspwiki-wiki.apache.org/Wiki.jsp?page=VersioningProposal
+[#2] https://jspwiki-wiki.apache.org/Wiki.jsp?page=HowToWriteAPlugin
+[#3] https://jspwiki-wiki.apache.org/Wiki.jsp?page=HowToWriteAFilter
+[#4] https://jspwiki-wiki.apache.org/Wiki.jsp?page=HowToWriteAPageProvider
+[#5] https://jspwiki-wiki.apache.org
+/Wiki.jsp?page=StartingPointForCustomExtensions
+[#6] https://jspwiki-wiki.apache.org/Wiki.jsp?page=JSPWikiPublicAPI
+[#7] https://jspwiki-wiki.apache.org/Wiki.jsp?page=HowToI18n
+[#8] https://jspwiki.apache.org/development/i18n.html
