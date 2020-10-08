@@ -1,0 +1,31 @@
+## Description:
+The mission of JSPWiki is the creation and maintenance of software related to 
+Leading open source WikiWiki engine, feature-rich and built around standard 
+JEE components (Java, servlets, JSP).
+
+## Issues:
+There are no issues requiring board attention.
+
+## Membership Data:
+Apache JSPWiki was founded 2013-07-17 (7 years ago)
+There are currently 15 committers and 11 PMC members in this project.
+The Committer-to-PMC ratio is roughly 4:3.
+
+Community changes, past quarter:
+- No new PMC members. Last addition was Dave Koelmeyer on 2016-04-06.
+- No new committers. Last addition was Dave Koelmeyer on 2016-04-06.
+
+## Project Activity:
+Almost no activity this quarter
+- we missed our release train stop because there wasn't any new code since 
+  last release.
+- there has been a little bit of development after the release train stop 
+  date, regarding JSPWIKI-1131 and dependency updates.
+- we received a security vulnerability report, but was dismissed due to issue
+  having been already reported.
+- Infra asked us to migrate jspwiki-wiki.a.o to a newer vm image; progress 
+  can be tracked at INFRA-20807.
+
+## Community Health:
+Although there is little activity, there's enough project oversight; questions 
+get followed up on ML/Jira, and there's enough people to cut down a release.
