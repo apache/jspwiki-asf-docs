@@ -18,9 +18,9 @@ Community changes, past quarter:
 ## Project Activity:
 Almost no activity this quarter
 - we missed our release train stop because there wasn't any new code since 
-  last release.
+  last release at that date.
 - there has been a little bit of development after the release train stop 
-  date, regarding JSPWIKI-1131 and dependency updates.
+  date, regarding JSPWIKI-1114, JSPWIKI-1131 and dependency updates.
 - we received a security vulnerability report, but was dismissed due to issue
   having been already reported.
 - Infra asked us to migrate jspwiki-wiki.a.o to a newer vm image; progress 
