@@ -1,0 +1,36 @@
+## Description:
+The mission of JSPWiki is the creation and maintenance of software related to 
+Leading open source WikiWiki engine, feature-rich and built around standard 
+JEE components (Java, servlets, JSP).
+
+## Issues:
+There are no issues requiring board attention.
+
+## Membership Data:
+Apache JSPWiki was founded 2013-07-17 (8 years ago)
+There are currently 14 committers and 8 PMC members in this project.
+The Committer-to-PMC ratio is 7:4.
+
+Community changes, past quarter:
+- No new PMC members. Last addition was Dave Koelmeyer on 2016-04-06.
+- No new committers. Last addition was Dave Koelmeyer on 2016-04-06.
+- Craig Russel (Mar 2, 2021) and David Vittor (Mar 4, 2021) requested to step
+  down as PMC members.
+
+## Project Activity:
+This quarter hasn't seen too much activity, which has been mainly driven by 3
+PR from 2 different contributors. Most notably, we got a new Search Provider,
+based on AWS Kendra [#1].
+
+We still have another couple of PRs from contributors pending review, and a
+lot of PRs from dependabot featuring dependencies' upgrades.
+
+2.11.0 still planned as next release, should not be too far away.
+
+## Community Health:
+There's enough project oversight, although project activity is low.
+
+We are looking for some continuity on previously noted contributors, as they 
+may end up becoming potential PMC members / committers.
+
+[#1] https://jspwiki-wiki.apache.org/Wiki.jsp?page=KendraSearchProvider
