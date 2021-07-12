@@ -18,7 +18,7 @@ Community changes, past quarter:
 ## Project Activity:
 Quiet quarter, the only activity was regarding switching JSPWiki logging 
 framework from Log4J to Log4J2 (JSPWIKI-796), and a few dependency updates.
-The work being done at JSPWIKI-796 was the last step towards 2.11.0, which
+The work being done at JSPWIKI-795 was the last step towards 2.11.0, which
 should be released next quarter if all goes well.
 
 ## Community Health:
