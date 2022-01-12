@@ -26,7 +26,7 @@ we need to add support for both plain and WYSIWYG editors. For the latter,
 there's a refactor ongoing, which should be completed soon.
 
 2 vulnerability disclosures were published and fixed in 2.11.0, we have a
-couple more which need investigation.
+couple more, one being worked on, the other one still needing investigation.
 
 Finally there was a discuss thread on moving from jira to github issues,
 but got nowhere, so we'll stick with jira for now.
