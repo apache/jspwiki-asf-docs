@@ -7,7 +7,7 @@ JEE components (Java, servlets, JSP).
 There are no issues requiring board attention.
 
 ## Membership Data:
-Apache JSPWiki was founded 2013-07-17 (8 years ago)
+Apache JSPWiki was founded 2013-07-17 (9 years ago)
 There are currently 14 committers and 8 PMC members in this project.
 The Committer-to-PMC ratio is 7:4.
 
@@ -25,11 +25,16 @@ We got one vulnerability report, done directly through github, which
 was rejected. Still pending to reach the issuer so next reports do
 get submitted through the appropiate channels.
 
+Last release was 2.11.3 on 2022-08-02.
+
 ## Community Health:
 Traffic on both MLs had a decrease compared with last quarter, most
-probably due to being a quiet quarter. We got one plugin submitted
-through dev@j.a.o, which should at least get uploaded to 
-jspwiki-wiki.a.o
+probably due to being a quiet-code quarter. 
+
+Community wise, we got one plugin submitted through dev@j.a.o, which 
+should at least get uploaded to jspwiki-wiki.a.o. Also, an emeritus 
+PMC member is working on a new ReferenceManager implementation, based 
+on JGraphT.
 
 We have a handful of PRs awaiting to be merged.
 
