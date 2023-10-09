@@ -1,0 +1,34 @@
+## Description:
+The mission of JSPWiki is the creation and maintenance of software related to
+Leading open source WikiWiki engine, feature-rich and built around standard 
+JEE components (Java, servlets, JSP).
+
+## Project Status:
+Current project status: Ongoing, with low activity.
+Issues for the board: There are no issues requiring board attention.
+
+## Membership Data:
+Apache JSPWiki was founded 2013-07-17 (10 years ago)
+There are currently 15 committers and 9 PMC members in this project.
+The Committer-to-PMC ratio is 5:3.
+
+Community changes, past quarter:
+- Arturo Bernal was added to the PMC on 2023-06-21
+- Arturo Bernal was added as committer on 2023-06-21
+
+## Project Activity:
+2.12.1 release happened this quarter, which fixed the workflow approval area,
+which wasn't working as expected since a lot of releases, upgraded bundled
+dependencies and defaulted jspwiki working directory to 
+$javax.servlet.context.tempdir if it existed.
+
+We are having talks about incoming 2.12.2, trying to catch on with our 
+stated release train.
+
+
+## Community Health:
+Work on latest master shows commits from 3 different commiters.
+
+Other than that, we got the usual amount of emails (that is, not too much). No
+unanswered questions, and there is enough people appearing on the ML and 
+providing project oversight.
