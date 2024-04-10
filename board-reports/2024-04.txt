@@ -22,8 +22,7 @@ activity:
 
 * There's being some work on the refactor, referenced on last report, to 
 benefit from virtual threads under JDK-21, but it is not complete yet. 
-* A small bug detected detected while our public wiki being attacked was 
-fixed.
+* A small bug detected while our public wiki being attacked was fixed.
 * We've began to publish SBOMs alongside our main artifacts.
 * Some dependencies and plugins have been upgraded.
 
