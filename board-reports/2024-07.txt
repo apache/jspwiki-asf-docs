@@ -1,0 +1,60 @@
+## Description:
+The mission of JSPWiki is the creation and maintenance of software related to
+Leading open source WikiWiki engine, feature-rich and built around standard 
+JEE components (Java, servlets, JSP).
+
+## Project Status:
+Current project status: Ongoing, with low activity.
+Issues for the board: There are no issues requiring board attention.
+
+## Membership Data:
+Apache JSPWiki was founded 2013-07-17 (11 years ago)
+There are currently 15 committers and 9 PMC members in this project.
+The Committer-to-PMC ratio is 5:3.
+
+Community changes, past quarter:
+- Arturo Bernal was added to the PMC on 2023-06-21
+- Arturo Bernal was added as committer on 2023-06-21
+
+## Project Activity:
+2.12.2 was finally released on 2024/06/17 and the pending CVE fixed by this
+version was also published. We got an additional vulnerability report which is
+now under discussion at private@j.a.o.
+
+Activity this quarter has been focused on preparing the code for the release,
+fixing some small issues and requests for the release. Also, we merged a 
+contributor's PR right after that.
+
+The refactor, referenced on previouse reports, to benefit from virtual threads
+under JDK-21, is not complete yet and was parked to focus on the release. 
+
+There've been some discussion to switch to JDK-17 / Jakarta 10, so next release
+most probably will be 3.0.0 to reflect this change.
+
+## Community Health:
+Work on latest master shows commits from 2 commiters, which contains among
+other things the aforementioned PR from a contributor.
+
+No questions unanswered on MLs, although they continue to have little traffic.
+
+Board comment on previous report:
+
+```
+cdutz:
+Left a comment on the private list as the project was approving jira accounts
+from obvious spammers such as pharmacyusa10 Also did I read the report 
+correctly: There was an attack using all attack vectors known to the project
+already. From the fact that they were successful I would guess that they are
+known and no new ones were added, but they were not fixed, right?
+```
+
+Sorry I missed the e-mail with the comment, so didn't see it. Regarding the 
+jira accounts, as noted on list, we're truly sorry about that and we'll look
+more closely next time. In fact, we've denied the last request, redirecting
+to the ML, as it appeared to be another spammer.
+
+As for the attack vector's question, they were known and fixed vectors, so
+nothing really happened, excepting having to restore pages to remove the
+dirt. The attacks consisted on trying to edit pages, users, groups, etc. in 
+order to try XSS, SQL Injection and privilege escalation; none of them were
+successful.
