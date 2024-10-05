@@ -1,0 +1,55 @@
+## Description:
+The mission of JSPWiki is the creation and maintenance of software related to
+Leading open source WikiWiki engine, feature-rich and built around standard 
+JEE components (Java, servlets, JSP).
+
+## Project Status:
+Current project status: Ongoing, with low activity.
+Issues for the board: There are no issues requiring board attention.
+
+## Membership Data:
+Apache JSPWiki was founded 2013-07-17 (11 years ago)
+There are currently 15 committers and 9 PMC members in this project.
+The Committer-to-PMC ratio is 5:3.
+
+Community changes, past quarter:
+- Arturo Bernal was added to the PMC on 2023-06-21
+- Arturo Bernal was added as committer on 2023-06-21
+
+## Project Activity:
+Activity this quarter has been mostly around reviewing and merging 
+contributors' PRs. We also pushed some updates related to the the logic of 
+inlining / downloading attachments, as a result of discussing our last
+vulnerability report. 
+
+This report was rejected, but we decided that having this additional 
+functionality would make JSPWiki more securitly-friendlier.
+
+There's another PR from a contributor with the switch to Jakarta 10, which 
+would be the first step towards JSPWiki 3.
+
+## Community Health:
+Work on latest master shows commits from 1 commiter, which contains 3 pull 
+requests from two different contributors.
+
+No questions unanswered on MLs, although they continue to have little traffic.
+
+Answering a Board comment on previous report:
+
+```
+cdutz:
+I do see a large number of emails from the security team on the private list 
+and all activity seems to be merging dependabot version updates. Is the 
+project activly working on addressing the known issues?
+```
+
+Every time we get a vulnerability report we started a separate thread at 
+private@j.a.o to discuss the issue. We get a weekly "your dependabot alerts for
+this week" which highlight that we're using an old version of commons-http,
+which has some associated CVEs, althought none of them are explotaible on 
+JSPWiki. We try to address every security issue and push the appropiate 
+releases as fast as we can, although JSPWiki being developed on free time(tm),
+sometimes is not as fast as we would like.
+
+Other than that, we have a slow development pace, so every push usually comes 
+with a commit upgrading dependencies, some adviced by dependabot, some not.
