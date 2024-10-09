@@ -25,8 +25,8 @@ vulnerability report.
 This report was rejected, but we decided that having this additional 
 functionality would make JSPWiki more securitly-friendlier.
 
-There's another PR from a contributor with the switch to Jakarta 10, which 
-would be the first step towards JSPWiki 3.
+There's a fork from a contributor with the switch to Jakarta 10, bringing
+that to master would be the first step towards JSPWiki 3.
 
 ## Community Health:
 Work on latest master shows commits from 1 commiter, which contains 3 pull 
