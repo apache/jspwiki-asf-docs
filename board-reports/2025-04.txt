@@ -15,6 +15,7 @@ The Committer-to-PMC ratio is 5:3.
 Community changes, past quarter:
 - Arturo Bernal was added to the PMC on 2023-06-21
 - Arturo Bernal was added as committer on 2023-06-21
+- Siegfried Goeschl requested to go emeritus on 2025-02-14
 
 ## Project Activity:
 Activity this quarter has been around fixing two vulnerabilities mentioned
