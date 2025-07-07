@@ -25,6 +25,10 @@ jakarta, on the jakarta branch.
 Next steps: 2.12.3 should be released this month, and then switching to 3.0.0
 (Jakarta + modern JDK).
 
+We received one security vulnerability report, which was discarded, although
+we made some code changes related to it, to avoid in the future similar 
+reports which may be flagged by automated tools.
+
 ## Community Health:
 Work on latest master shows commits from 2 commiters and work from one 
 contributor (pull #362), work on Jakarta shows work from one committer + one 
