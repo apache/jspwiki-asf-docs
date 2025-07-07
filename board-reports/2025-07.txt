@@ -26,8 +26,9 @@ Next steps: 2.12.3 should be released this month, and then switching to 3.0.0
 (Jakarta + modern JDK).
 
 ## Community Health:
-Work on latest master shows commits from 2 commiters, work on Jakarta shows
-work from one committer + one contributor.
+Work on latest master shows commits from 2 commiters and work from one 
+contributor (pull #362), work on Jakarta shows work from one committer + one 
+contributor.
 
 No questions unanswered on MLs, although they continue to have very little 
 traffic.
