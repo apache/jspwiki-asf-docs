@@ -32,3 +32,8 @@ contributor.
 
 No questions unanswered on MLs, although they continue to have very little 
 traffic.
+
+Last, due increased spamming we have taken the decission to make our public
+wiki instance at jspwiki-wiki.a.o largely read only, making mandatory to ask
+for an account at either user or dev MLs, which is needed in order to have
+edit permissions.
