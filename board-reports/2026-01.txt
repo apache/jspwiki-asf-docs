@@ -1,0 +1,39 @@
+## Description:
+The mission of JSPWiki is the creation and maintenance of software related to
+Leading open source WikiWiki engine, feature-rich and built around standard 
+JEE components (Java, servlets, JSP).
+
+## Project Status:
+Current project status: Ongoing, with low activity.
+Issues for the board: There are no issues requiring board attention.
+
+## Membership Data:
+Apache JSPWiki was founded 2013-07-17 (12 years ago)
+There are currently 16 committers and 10 PMC members in this project.
+The Committer-to-PMC ratio is 8:5.
+
+Community changes, past quarter:
+- Alex O'Ree was added to the PMC on 2025-11-06
+- Alex O'Ree was added as committer on 2025-11-07
+
+## Project Activity:
+Alex O'Ree joined JSPWiki this quarter, bringing a lot of energy to the 
+project.
+
+Most notable activity this quarter revolved around fixing long-standing 
+issues, security findings, administration-related capabilities and 
+dependency updates.
+
+A big portion of the security findings have been sitting on JIRA for a 
+very long time, and never were discussed on private. Most probably they
+were filed on JIRA under incubation, but ended up falling through the 
+cracks.
+
+We're still discussing one security issue, after which we will focus on
+releasing 3.0.0.
+
+## Community Health:
+Work on latest master shows commits from three committers.
+
+No questions unanswered on MLs, although they continue to have very little 
+traffic, aside from JIRA/GitHub generated mails. 
