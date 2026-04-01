@@ -1,0 +1,40 @@
+## Description:
+The mission of JSPWiki is the creation and maintenance of software related to
+Leading open source WikiWiki engine, feature-rich and built around standard 
+JEE components (Java, servlets, JSP).
+
+## Project Status:
+Current project status: Ongoing, with low activity.
+Issues for the board: There are no issues requiring board attention.
+
+## Membership Data:
+Apache JSPWiki was founded 2013-07-17 (12 years ago)
+There are currently 16 committers and 10 PMC members in this project.
+The Committer-to-PMC ratio is 8:5.
+
+Community changes, past quarter:
+- Alex O'Ree was added to the PMC on 2025-11-06
+- Alex O'Ree was added as committer on 2025-11-07
+
+## Project Activity:
+Most notable activity this quarter revolved around a vulnerability report
+which has warranted preparing a release under the 2.x version. As a side 
+effect of this, the security findings noted on the previous report have
+been backported as well to the master-2.x branch.
+
+We've held votes for releasing 2.12.4 and 3.0.0, but some other issues 
+have surfaced and we'll need to fix them and prepare new release votes.
+
+## Community Health:
+Work on latest master shows commits from one committer.
+
+No questions unanswered on MLs, although they continue to have very little 
+traffic, aside from JIRA/GitHub generated mails. 
+
+Also note special order 7B; I asked at private@j.a.o for a volunteer to
+act as a new JSPWiki PMC chair as I've done a few times before, and Alex 
+O'Ree has stepped up. Don't have plans on becoming inactive, but I've been
+chair for a lot of time, and thought it would be good (tm) for JSPWiki to
+rotate the chair position. Vote was held at 
+https://lists.apache.org/thread/o1k9jd52vwn020r70trs18wty8mt2cxq and 
+hopefully will be approved on April's meeting.
